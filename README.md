@@ -8,7 +8,6 @@
   
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge)](https://github.com/yashsaini)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/yashsaini)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/yashsaini)
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge)](mailto:yash.saini@example.com)
 
 </div>
