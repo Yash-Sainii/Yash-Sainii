@@ -5,10 +5,7 @@
 ### 🔒 Cybersecurity Specialist | Security Researcher | Ethical Hacker
   
 *Defending the digital realm, one vulnerability at a time*
-  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge)](https://github.com/yashsaini)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/yashsaini)
-[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge)](mailto:yash.saini@example.com)
+
 
 </div>
 
