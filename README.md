@@ -43,19 +43,22 @@ class YashSaini:
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat)
 ![Nmap](https://img.shields.io/badge/Nmap-4B8BBE?style=flat)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?style=flat)
-![Ghidra](https://img.shields.io/badge/Ghidra-EE0000?style=flat)
+![Ghidra](https://img.shields.io/badge/Ghidra-EE0000?style=flat) 
+
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=flat)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white&style=flat)
+
 **Platforms**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=white&style=flat)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
+
 **Standards** (Studying)
 ![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat)
 ![NIST](https://img.shields.io/badge/NIST-0078D4?style=flat)
