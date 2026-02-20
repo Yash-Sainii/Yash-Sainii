@@ -120,24 +120,6 @@ class YashSaini:
 </tr>
 </table>
 
----
-
-## 📜 Certifications & Achievements
-
-<div align="center">
-
-| Certification | Issuer | Status |
-|---|---|---|
-| 🏆 OSCP | Offensive Security | ✅ Certified |
-| 🏆 CEH | EC-Council | ✅ Certified |
-| 🏆 Security+ | CompTIA | ✅ Certified |
-| 🏆 CISSP | (ISC)² | ✅ Certified |
-| 🏆 eJPT | eLearnSecurity | ✅ Certified |
-| 🏆 Google Cloud Security | Google | ✅ Certified |
-
-</div>
-
----
 
 ## 📊 GitHub Statistics
 
@@ -167,72 +149,6 @@ class YashSaini:
 - 📱 **Mobile Security** - Android and iOS application security
 - 🤖 **AI/ML Security** - Adversarial attacks and model security
 
----
-
-## 💼 Professional Experience
-
-### Security Research & Development
-- Identified and documented **100+ vulnerabilities** across various platforms
-- Developed custom security tools and automation scripts
-- Collaborated with security teams on risk mitigation strategies
-- Published security research and technical articles
-
-### Penetration Testing
-- Conducted **25+ comprehensive security assessments** for enterprises
-- Identified critical vulnerabilities in web applications, networks, and APIs
-- Provided detailed remediation guidance and risk recommendations
-- Achieved 100% client satisfaction rate
-
-### Incident Response
-- Led investigations on **security incidents and breaches**
-- Performed digital forensics and root cause analysis
-- Implemented detection and response strategies
-- Managed security incident escalations and communications
-
----
-
-## 📚 Knowledge Hub
-
-### Latest Articles & Research
-- 🔗 [Understanding OWASP Top 10 - 2024](https://example.com)
-- 🔗 [Penetration Testing Methodology](https://example.com)
-- 🔗 [Cloud Security Best Practices](https://example.com)
-- 🔗 [API Security Implementation Guide](https://example.com)
-- 🔗 [Threat Hunting Techniques & Tools](https://example.com)
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-**I'm always interested in:**
-- 🔐 Security consulting & advisory roles
-- 🎯 Penetration testing engagements
-- 🔬 Security research collaborations
-- 🏆 Bug bounty programs
-- 🎤 Speaking at security conferences
-- 💡 Building secure products & startups
-
-</div>
-
-<div align="center">
-
-### 📧 Get In Touch
-
-📧 **Email:** [yash.saini@example.com](mailto:yash.saini@example.com)  
-🌐 **Website:** [yashsaini.com](https://yashsaini.com)  
-🔒 **Security Contact:** [security@yashsaini.com](mailto:security@yashsaini.com)  
-🔗 **LinkedIn:** [linkedin.com/in/yashsaini](https://linkedin.com/in/yashsaini)  
-🐦 **Twitter:** [@yashsaini](https://twitter.com/yashsaini)  
-
-</div>
-
----
-
-## 📜 Disclaimer
-
-This GitHub profile contains educational and security research content. All tools, scripts, and code are provided for **authorized security testing only**. Unauthorized access to computer systems is **illegal**. Always obtain proper authorization before conducting security assessments.
 
 ---
 
@@ -242,10 +158,4 @@ This GitHub profile contains educational and security research content. All tool
 
 **Thank you for visiting!** 🙏
 
----
 
-<img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" />
-
-*Last Updated: February 2024*
-
-</div>
