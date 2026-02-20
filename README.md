@@ -87,32 +87,13 @@ class YashSaini:
 ---
 
 
-## 🔍 Research & Learning Interests
-
-- 🎯 **Vulnerability Research** - Discovering and analyzing vulnerabilities
-- 🔬 **Malware Analysis Basics** - Reverse engineering fundamentals
-- ☁️ **Cloud Security** - AWS, Azure security principles
-- 🌐 **API Security** - REST, GraphQL vulnerability analysis
-- 🔐 **Cryptography Fundamentals** - Encryption and crypto implementations
-- 🕵️ **Threat Hunting** - Detection methodologies and intelligence
-- 📱 **Mobile Security** - Android/iOS security testing
-- 🤖 **AI/ML Security** - Adversarial attacks and model security basics
-
----
 
 ## 📊 GitHub Activity
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashsaini&show_icons=true&theme=radical)](https://github.com/yashsaini)
 
 
-
 ## 🎓 My Philosophy
 
 **"Security is not a destination, it's a continuous journey of learning and improvement."**
-
-I believe in:
-- ✅ Ethical hacking and responsible disclosure
-- ✅ Continuous learning and skill development
-- ✅ Community contribution and knowledge sharing
-- ✅ Legal and ethical practices in all activities
 
