@@ -5,7 +5,7 @@
 
 ---
 
-## 🎯 About Me
+## 🎯 About Me 
 
 I'm a **BTech 3rd year student** with a genuine passion for cybersecurity. I'm actively learning offensive and defensive security through hands-on labs, CTF challenges, and practical projects. My goal is to master application security, penetration testing, and threat analysis.
 
